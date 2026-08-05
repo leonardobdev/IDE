@@ -1,3 +1,3 @@
 # IDE
 
-https://leonardobdev.github.io/IDE/
+https://leonardobdev.github.io/ide/
